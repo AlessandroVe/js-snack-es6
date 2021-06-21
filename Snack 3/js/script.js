@@ -33,6 +33,11 @@ let teams=[
 
 ];
 
+
+/* stampare in html (in forma tabellare!!! ) i dati relativi alle squadre evidenziando
+ in giallo la riga corrispondente alla squadra con più falli subiti. */ 
+
+
 let lastHigherFouls = 0;
 
 let lastHigherFoulsTeam;
